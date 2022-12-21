@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../nodele"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../webapp2"
+		}
+	],
+	"settings": {}
+}
